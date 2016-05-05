@@ -1,0 +1,3 @@
+*.swp
+client/*.swp
+node_modules/
